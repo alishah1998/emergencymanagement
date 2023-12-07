@@ -1,0 +1,19 @@
+---
+title: "Welcome"
+---
+
+![](images/profile%20pic.jfif){fig-align="center" width="352"}
+
+## **My Data Science Journey:**
+
+Currently master student studying Social Data Analytics and Research which focus on applying Data Science into social science. I have a professional certification in Data Analytics Essentials from University of Texas, which focuses on using SQL, Tableau, Excel, and Python to gain business insights using big data. I am actively seeking an internship in the field of Data Analytics, Business Analytics, Business Intelligence, or Data Science.\
+\
+Through my previous work experiences, I have developed the ability to work efficiently in a fast-paced environment, collect accurate and reliable data, maintain well-organized records, communicate professionally both verbally and in writing, and establish positive relationships with clients and other professionals. I am excited to bring my skills and experience to a new opportunity and make a valuable contribution to the organization.
+
+Lets connect:
+
+[LinkedIn](https://www.linkedin.com/in/ali-shah-a10145152/)
+
+Email: alishah1998\@hotmail.com
+
+Phone: 469-877-9009
